@@ -1,0 +1,4 @@
+pennlive.com##div:last-child > div.DCDOr > div.eRIqgq.a__s1p0xe8r-0:first-child > div.lmmqeT.a__s1p0xe8r-0
+pennlive.com##div:last-child > div.DCDOr > div.eRIqgq.a__s1p0xe8r-0:first-child
+pennlive.com##div:last-child > div.DCDOr
+pennlive.com##div:last-child > div.DCDOr
