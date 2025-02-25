@@ -1,3 +1,5 @@
 pennlive.com##div:last-child > div.DCDOr
 variety.com##div:last-child > div.DCDOr
 deadline.com##div:last-child > div.DCDOr
+aerowitter.com###_1vxba0d
+aeroinsta.com###_1vxba0d
